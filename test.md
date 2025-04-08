@@ -4,6 +4,6 @@
 
 Testing:
 Link to README: [README Link](README.md).
-Link to index: [INDEX Link](index).
+Link to index: [INDEX Link](index.md).
 
 Link to external website: [Google Link](https://google.com).
