@@ -1,3 +1,7 @@
+layout: page
+title: "test"
+permalink: /test
+
 ### Yo wassup
 
 # I'm going to test some stuff
