@@ -1,6 +1,6 @@
 layout: page
 title: "leftpanel"
-permalink: /leftpanel
+permalink: /ui-controls/leftpanel
 
 # Left Panel
 
