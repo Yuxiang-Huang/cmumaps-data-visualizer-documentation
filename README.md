@@ -1,3 +1,3 @@
-# cmumaps-data-visualizer-documentation
+# CMU Maps Data Visualizer Documentation
 
-### Hi there
+### Hello World
